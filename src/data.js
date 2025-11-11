@@ -24,7 +24,7 @@ export const messages = [
         color: "from-red-500 to-purple-500",
         title: "Your Voice 🎧",
         message:
-            "Your voice calms my chaos and makes every day feel a little more like home.",
+            "Which i Loved most, even when you are angry, your word melts my heart.",
         showIcon: true,
     },
     {
