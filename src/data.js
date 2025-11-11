@@ -14,36 +14,37 @@ export const messages = [
     {
         id: 1,
         color: "from-rose-500 to-pink-500",
-        title: "My Forever Love 💖",
+        title: "Our Story 🎮",
         message:
-            "Every moment with you feels like a dream I never want to wake up from. You’re not just my love — you’re my peace, my home, and my everything.",
+            "We met in a game, but you turned it into something real — it was my most beautiful day ever.",
         showIcon: true,
     },
     {
         id: 2,
         color: "from-red-500 to-purple-500",
-        title: "Happy Birthday, My Queen 🎂",
+        title: "Your Voice 🎧",
         message:
-            "Your birthday isn’t just your special day — it’s my favorite day, the day the love of my life came into this world. I’m so thankful for you, always.",
+            "Your voice calms my chaos and makes every day feel a little more like home.",
         showIcon: true,
     },
     {
         id: 3,
         color: "from-blue-500 to-indigo-500",
-        title: "Distance Means Nothing 🌙",
+        title: "My Constant 🌙",
         message:
-            "Even miles apart, my heart beats in rhythm with yours. One call, one smile, one word from you — and my whole world lights up again.",
+            "No matter the distance, your love stays with me — like the moonlight that never fades.",
         showIcon: true,
     },
     {
         id: 4,
         color: "from-yellow-500 to-orange-500",
-        title: "Forever Yours 💍",
+        title: "Forever Us 💍",
         message:
-            "You’re not just my girlfriend, not just my wife in heart — you’re my forever person. My life makes sense because you’re in it, and I’ll keep loving you endlessly.",
+            "You’re my today, my tomorrow, and my always — the love I’ll never stop choosing.",
         showIcon: true,
     },
 ];
+
 
 
 // Photo Gallery Screen
