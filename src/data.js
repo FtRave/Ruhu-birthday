@@ -52,7 +52,7 @@ export const messages = [
 export const photoScreenHeading = "My Cutu Baccha"
 
 // Subheading text for the Photo Gallery section (optional - you can remove or leave it blank if not needed)
-export const photoScreenSubHeading = "Thodi photos bhejti 🥲 my baccha"
+export const photoScreenSubHeading = "Thodi si or photos bhejti 🥲 my baccha"
 
 // List of photo objects to display in the gallery
 // - Add more photos by copying the same line and changing the id and src
